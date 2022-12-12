@@ -342,7 +342,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="true"/>
         <hearing-protection-enable value="false"/>
@@ -400,7 +400,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -499,7 +499,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -540,7 +540,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="true"/>
         <hearing-protection-enable value="false"/>
@@ -569,7 +569,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -598,7 +598,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -639,7 +639,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="true"/>
         <hearing-protection-enable value="false"/>
@@ -648,7 +648,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="false"/>
@@ -668,7 +668,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -677,7 +677,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="false"/>
@@ -697,7 +697,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -706,7 +706,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -747,7 +747,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="true"/>
@@ -776,7 +776,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="true"/>
@@ -805,7 +805,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -846,7 +846,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="false"/>
@@ -875,7 +875,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="false"/>
@@ -904,7 +904,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -936,7 +936,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -945,7 +945,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="true"/>
@@ -965,7 +965,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -974,7 +974,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="true"/>
@@ -994,7 +994,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1003,7 +1003,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -1035,7 +1035,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1044,7 +1044,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="false"/>
@@ -1064,7 +1064,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1073,7 +1073,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="false"/>
@@ -1093,7 +1093,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1102,7 +1102,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -1134,7 +1134,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="true"/>
         <hearing-protection-enable value="false"/>
@@ -1143,7 +1143,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="headphone">
         <ieq-enable value="true"/>
@@ -1163,7 +1163,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1172,7 +1172,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
       <endpoint_type id="other">
         <ieq-enable value="false"/>
@@ -1192,7 +1192,7 @@
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
-        <virtualizer-enable value="false"/>
+        <virtualizer-enable value="true"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
         <hearing-protection-enable value="false"/>
@@ -1201,7 +1201,7 @@
         <hearing-protection-attenuation-attack-time value="900"/>
         <hearing-protection-attenuation-release-time value="1600"/>
         <virtualizer-start-band value="0"/>
-        <headphone-virtualizer-steerer-source-distance value="4"/>
+        <headphone-virtualizer-steerer-source-distance value="26"/>
       </endpoint_type>
     </data>
   </profile>
@@ -1255,7 +1255,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,-375,-479,-480,-464,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,-338,-338,-480,-464,-378"/>
-      <bass-enhancer-boost value="15"/>
+      <bass-enhancer-boost value="16"/>
       <bass-enhancer-cutoff-frequency value="256"/>
       <bass-enhancer-width value="4"/>
       <bass-extraction-cutoff-frequency value="200"/>
@@ -1450,7 +1450,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,0,0,0,0,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,0,0,0,0,0"/>
-      <bass-enhancer-boost value="96"/>
+      <bass-enhancer-boost value="112"/>
       <bass-enhancer-cutoff-frequency value="160"/>
       <bass-enhancer-width value="16"/>
       <bass-extraction-cutoff-frequency value="200"/>
